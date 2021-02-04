@@ -1,2 +1,2 @@
-# Python_OpenCV
+# Python_ComputerVision
 Test all the features of OpenCV
